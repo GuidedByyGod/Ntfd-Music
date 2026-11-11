@@ -17,7 +17,7 @@ O Ntfd Music toca YouTube, YouTube Music, Spotify, Deezer, Apple Music, SoundClo
 | Áudio | FFmpeg (PCM 48 kHz) + encoder Opus |
 | Extração | yt-dlp (download automático na primeira execução) |
 | Painel | Express + WebSocket + Activity SDK |
-| Licença | MIT |
+| Licença | Proprietária — todos os direitos reservados |
 
 ---
 
@@ -301,7 +301,9 @@ O `ffmpeg-static` é instalado pelo npm. O `yt-dlp` é baixado no primeiro start
 
 ## Licença
 
-MIT. Veja [`LICENSE`](LICENSE).
+Proprietária — **todos os direitos reservados**. O código, a documentação e os assets não podem ser usados, copiados, modificados ou redistribuídos sem autorização por escrito. Veja [`LICENSE`](LICENSE).
+
+As dependências de terceiros mantêm suas próprias licenças.
 
 ---
 
