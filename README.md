@@ -10,13 +10,9 @@ O Ntfd Music toca YouTube, YouTube Music, Spotify, Deezer, Apple Music, SoundClo
 
 ## Preview
 
-| Painel web / Activity | Equalizador |
+| Painel web | Equalizador |
 |---|---|
 | ![Painel web do Ntfd Music](docs/screenshots/painel.png) | ![Equalizador de 6 bandas](docs/screenshots/equalizador.png) |
-
-| Conexão ao canal | Activity |
-|---|---|
-| ![Tela de conexão ao canal](docs/screenshots/conexao.png) | ![Arte da Activity](docs/screenshots/activity.png) |
 
 ---
 
